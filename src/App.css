@@ -91,6 +91,7 @@ iframe{
 @media screen and (max-width: 992px){
   .container{
     flex-direction: column;
+    padding: 30px;
   }
   iframe{
     height: 300px;
